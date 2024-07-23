@@ -1,3 +1,5 @@
+import { Button } from "./_components/ui/button"
+
 export default function Home() {
-  return <div className="mb-5 bg-gray-50 px-0">oi</div>
+  return <Button>test</Button>
 }
